@@ -1,0 +1,6 @@
+HP
+Attack
+Defense
+Speed
+Special Attack
+Special Defense
